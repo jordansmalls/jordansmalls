@@ -45,7 +45,7 @@ I have always been someone that's easily fascinated with new information and tec
 
 I love learning about new things and meeting new people. Feel free to message me on Twitter! [twitter.com/jordansdev](https://twitter.com/jordansdev)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jordansdev/) or you can shoot me an [email](mailto:jsmallsdev@gmail.com)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jsmallsdev/) or you can shoot me an [email](mailto:jsmallsdev@gmail.com)
 
 ### :microphone: Funny Jokes...
 
