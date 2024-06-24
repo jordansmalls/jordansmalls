@@ -43,7 +43,7 @@ I have always been someone that's easily fascinated with new information and tec
 
 ## :earth_americas: Reach Me
 
-I love learning about new things and meeting new people. Feel free to message me on Twitter! [twitter.com/jordansdev](https://twitter.com/jordansdev)
+I love learning about new things and meeting new people. Feel free to message me on Twitter! [twitter.com/jordansdev](https://twitter.com/jsmallsdev)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jordansdev/) or you can shoot me an [email](mailto:jsmallsdev@gmail.com)
 
