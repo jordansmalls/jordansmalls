@@ -1,65 +1,35 @@
-# Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> My name is Jordan.
----
-## :man_technologist: About Me
-My name is Jordan and I am a **Software Engineer!**
+<img src="header.gif" alt="Hey, I'm Jordan. I build thoughtful software that solves real problems.">
 
 ```javascript
-  class Jordan {
-    constructor() {
-      this.nickname = 'Jay';
-      this.traits = ["artistic", "lively", "adventurous"];
-      this.hobbies = ["Coding!", "Space", "Chess", "Cars", "Sports", "Gaming"];
-    }
+const Jordan = {
+  name: "Jordan Smalls",
+  role: "Fullstack Software Engineer",
+  status: "Currently focused on scalable APIs and microservices.",
+  portfolio: "https://www.jsmalls.net",
+  setup: {
+    os: "Arch Linux(btw)/macOS Sequoia",
+    editor: "VS Code (vim bindings)",
+    browser: "Zen/Helium"
   }
-  ```
+};
+```
+<h5 align="left">Languages and Tools</h5>
 
-<p>
-I am a full-stack software engineer who constantly seeks out innovative solutions to everyday problems. My unwavering passion for technology and computers has guided my journey, and over the years, I've immersed myself in building computers, leading computer-based workshops, and leveraging a plethora of software to create various forms of digital media. As a perpetual learner and creator, I enjoy using my skills and meticulous attention to detail as fuel for my unequivocal love for making things that can change the world!
+[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,mongodb,express,nodejs,tailwind,git,docker,postman,vim&theme=dark)](https://skillicons.dev)
+
+
+I'm a problem solver who codes. I focus on the intersection of technology and creativity, transforming complex ideas into robust, practical software. My approach is to mix strong engineering with real world impact—building things that are useful, meaningful, and performant. (I used em dashes <i>before</i> AI became popular)
+
+
+I'm drawn to software that bridges worlds: digital and physical, technical and human. I care about making work that feels fast, adaptable, and my goal is to build reliable software that lasts.
+
+Check out some of my work <a href="https://www.jsmalls.net" target="_blank">here.</a>
+
+<p>Whether it's for work inquiries, OSS collaboration, or a chat about the best film ever (Interstellar, obviously), feel free to <a href="mailto:jsmallsdev@gmail.com?subject=Hey,%20I%20Saw%20Your%20GitHub">email me</a> or connect below:</p>
+
+
+<p align="left">
+<a href="https://twitter.com/jsmallsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsmallsdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jsmallsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsmallsdev" height="30" width="40" /></a>
 </p>
-
-## :wrench: Skills
-
-* JavaScript
-* HTML
-* CSS
-* React/React Native
-* Node.js
-* Express
-* MongoDB
-* PostgreSQL
-* Tailwind
-* OOP
-* Git/GitHub
-* Postman
-
-## :rocket: Currently Learning...
-
-I have always been someone that's easily fascinated with new information and technologies, so this list is always growing and changing. As for now, in my free time I'm interested in:
-* AI & Data Science
-* UI/UX Design
-* Exploring new programming languages
-* Cloud platforms (AWS, Azure, Google Cloud)
-* Something fascinating about space! :rocket:
-
-## :earth_americas: Reach Me
-
-I love learning about new things and meeting new people. Feel free to message me on Twitter! [twitter.com/jordansdev](https://twitter.com/jsmallsdev)
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jsmallsdev/) or you can shoot me an [email](mailto:jsmallsdev@gmail.com)
-
-### :microphone: Funny Jokes...
-
-> "Have you heard about the object-oriented way to become wealthy?"
->> "No..."
->>> "Inheritance!"
-
-Lol. Here's another:
-
-> Why do programmers prefer dark mode?
->> Because light attracts bugs!
-
-Ahahaha, last one:
-
-> Why do all Pascal programmers ask to live in Atlantis?
->> Because it is below *C level.*
 
