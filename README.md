@@ -25,7 +25,7 @@ I'm drawn to software that bridges worlds: digital and physical, technical and h
 
 Check out some of my work <a href="https://www.jsmalls.net" target="_blank">here.</a>
 
-<p>Whether it's for work inquiries, OSS collaboration, or a chat about the best film ever (Interstellar, obviously), feel free to <a href="mailto:jsmallsdev@gmail.com?subject=Hey,%20I%20Saw%20Your%20GitHub">email me</a> or connect below:</p>
+<p>Whether it's for work inquiries, OSS collaboration, or a chat about the best film ever (Interstellar, obviously), feel free to <a href="mailto:hi@jsmalls.net?subject=Hey,%20I%20Saw%20Your%20GitHub">email me</a> or connect below:</p>
 
 
 <p align="left">
