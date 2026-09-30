@@ -3,7 +3,7 @@
 ```javascript
 const Jordan = {
   name: "Jordan Smalls",
-  role: "Fullstack Software Engineer",
+  role: "Software Engineer",
   status: "Currently focused on scalable APIs and microservices.",
   portfolio: "https://www.jsmalls.net",
   setup: {
